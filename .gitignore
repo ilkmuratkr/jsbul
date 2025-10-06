@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+out/
+*.log
+*.tmp
+*.har
+*.csv
+*.json
+.DS_Store
+
